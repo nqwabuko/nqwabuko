@@ -13,6 +13,10 @@ which is how termites build a nest with no coordinator. Companion to
 [an article](https://lnkd.in/p/edsxwNbm) on why the 1959 stigmergy literature beats most
 framework docs.
 
+**[crisp](https://github.com/nqwabuko/crisp)**: Turns "this is too complex" from an
+opinion into a test that exits 1. Strips the AI tells, cuts the clutter, and scores the
+result against a complexity budget and a length gate. Python, no dependencies.
+
 **[curio-engine](https://github.com/nqwabuko/curio-engine)**: A menu-bar capture tool that
 grew into a zettelkasten. Jot an idea, a headless model call enriches it, and it proposes
 connections with a stated reason. Swift.
